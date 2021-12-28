@@ -7,4 +7,26 @@ Power BI dashboards - Collection of Interactive dashboards
 2. This dataset is for the Maven Magic Challenge by Maven Analytics.
 
 
-![WhatsApp Image 2019-10-08 at 8 04 58 PM](https://github.com/05Madhu95/Power-BI/blob/main/HarryPottermovies.gif)
+![harrypotter](https://github.com/05Madhu95/Power-BI/blob/main/HarryPottermovies.gif)
+
+
+## FINANCE PERFORMANCE       
+
+1. A Finance Performance Analysis is a detailed analysis of profit over a time period. The dataset was taken from the Microsoft website.
+
+
+![financeperformance]( https://github.com/05Madhu95/Power-BI/blob/main/Financial%20Performance.png)
+
+## CUSTOMER PERSONALITY ANALYSIS         
+
+1. A customer personality analysis is a detailed analysis of a company’s ideal customer. The dataset for this was taken from Kaggle.
+
+
+![customerpersonality]( https://github.com/05Madhu95/Power-BI/blob/main/Marketing%20camp.png)
+
+## 	SALES INSIGHT            
+
+1.	This report was created as a final project of Internshalla PowerBI Training.
+
+
+![salesinsight]( https://github.com/05Madhu95/Power-BI/blob/main/Sales%20Insight.png)
