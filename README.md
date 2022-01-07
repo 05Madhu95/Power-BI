@@ -6,7 +6,7 @@ Power BI dashboards - Collection of Interactive dashboards
 1. Harry Potter Movie Analysis is a detailed analysis of all 8 movies in the Harry Potter franchise, including additional information about each movie, its chapters, characters, places, and spells.
 2. This dataset is for the Maven Magic Challenge by Maven Analytics.
 
-3.<iframe title="Financial Performance" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzI4NzhmYTYtNGY2Ny00ZmY1LThkZTMtOGMyZmNiYzgzOGM4IiwidCI6ImUzN2NkMjQ1LWQ0YTEtNGI1Yi05ZmI0LTQzNjk1ZGQzNGUwNSJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+
 
 
 
